@@ -1,0 +1,46 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #1e5bd6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-position: center;
+  align-items: center;
+  background-color: #535c68;
+}
+.box{
+  width:350px;
+  background-image: url("assets/diet.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input, select {
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+}
