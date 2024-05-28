@@ -1,6 +1,7 @@
 In the below mentioned snip, input has been taken by ReactJS and API call was done, Output has been processed in Spring Boot and displayed.
 
-![image](https://github.com/Kaveri-14/ReactJSBackstageRecent/assets/79992972/f13593f9-abc7-4e26-92fb-2478c3ec1daa)
+![image](https://github.com/Kaveri-14/ReactJSBackstageRecent/assets/79992972/f5b55536-963f-4df7-ba6c-e4bb0e9210fc)
+
 
 
 
